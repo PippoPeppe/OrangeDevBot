@@ -7,8 +7,8 @@
     <ProjectGuid>{DDFC4862-ECB9-4FBC-A547-42D467D44C66}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SampleBot</RootNamespace>
-    <AssemblyName>SampleBot</AssemblyName>
+    <RootNamespace>OrangeDevBot</RootNamespace>
+    <AssemblyName>OrangeDevBot</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
